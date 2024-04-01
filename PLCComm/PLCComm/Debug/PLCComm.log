@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  ConvertCount.cpp
+  MonitorInterface.cpp
+  PLCComm.cpp
+  PLCCommDlg.cpp
+  WriteDlg.cpp
+D:\Task\PLC\PLCComm\PLC통신_운영SW_이채연\PLCComm\PLCComm\PLCCommDlg.cpp(177,20): warning C4244: '초기화 중': 'wchar_t'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PLCCommDlg.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  LINK : D:\Task\PLC\PLCComm\PLC통신_운영SW_이채연\PLCComm\Debug\PLCComm.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  PLCComm.vcxproj -> D:\Task\PLC\PLCComm\PLC통신_운영SW_이채연\PLCComm\Debug\PLCComm.exe
